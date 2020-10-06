@@ -1,4 +1,4 @@
-<?php  include('./components/header.php'); ?>
-
-
-<?php  include('./components/footer.php'); ?>
+<?php  
+include('./containers/header.php'); 
+include('./containers/grid.php');
+include('./containers/footer.php');

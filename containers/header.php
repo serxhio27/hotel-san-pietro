@@ -8,3 +8,5 @@
     <title>Hotel San Pietro</title>
 </head>
 <body>
+
+<?php  require  getcwd() . '/components/navbar.php'   ?>
