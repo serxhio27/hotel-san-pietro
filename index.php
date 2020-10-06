@@ -1,5 +1,4 @@
-<?php 
+<?php  include('./components/header.php'); ?>
 
-echo 'hello';
 
-?>
+<?php  include('./components/footer.php'); ?>
